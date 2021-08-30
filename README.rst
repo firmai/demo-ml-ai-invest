@@ -4,7 +4,7 @@ Template
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
-Look how easy it is to use:
+Look how easy it is to use, [Sov.ai](https://sov.ai):
 
     import project
     # Get your stuff done
